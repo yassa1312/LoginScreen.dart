@@ -1,0 +1,15 @@
+{
+  "title": "News App",
+  "business": "Business",
+  "sports": "Sports",
+  "health": "Health",
+  "science": "Science",
+  "technology": "Technology",
+  "settings": "Settings",
+  "country": "Country",
+  "language": "Language",
+  "theme": "Theme",
+  "notification": "Notification",
+  "enabled": "Enabled",
+  "disabled": "Disabled"
+}
